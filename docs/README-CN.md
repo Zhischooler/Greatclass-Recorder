@@ -3,7 +3,7 @@
 屏幕录制 · 白板 · 批注 · 文字输入 · 图片导入 · 导出 MP4  
 基于 **PySide6 + ffmpeg**
 
-[English](././README.md)
+[English](https://github.com/Zhischooler/Greatclass-Recorder/blob/main/README.md)
 
 ---
 

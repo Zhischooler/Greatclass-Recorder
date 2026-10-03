@@ -184,4 +184,4 @@ A: `packer.py` performs re-encoding. If ffmpeg is missing, it falls back to a pl
 
 ## License
 
-Same as the [Greatclass](https://github.com/pglp006688/Greatclass) project.
+GPLv2

@@ -1,0 +1,78 @@
+# 字节码 / 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+.venv/
+venv/
+ENV/
+env/
+.python-version
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ffmpeg 二进制（体积大，不入库）
+bin/ffmpeg
+bin/ffmpeg.exe
+bin/ffprobe
+bin/ffprobe.exe
+
+# 录制产物
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.flv
+*.wav
+*.m4a
+greatclass_rec_*
+greatclass_compressed*
+greatclass_cover*
+
+# 导出 / 打包产物
+*.gclass.json
+*.gclass
+
+# 临时文件
+*.tmp
+*.log
+.cache/
+pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# 本地配置
+.env
+.env.local
+config.local.*

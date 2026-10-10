@@ -7,6 +7,12 @@
 
 ---
 
+## 关于
+
+这个项目是[GreatClass](https://github.com/pglp006688/GreatClass)的录制工具。
+
+[项目官网](https://project.zhixiaoer.dpdns.org/repo/greatclass-recorder.html)
+
 ## 目录结构
 
 ```

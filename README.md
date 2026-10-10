@@ -7,6 +7,12 @@ Built with **PySide6 + ffmpeg**
 
 ---
 
+## About
+
+This Project for [GreatClass](https://github.com/pglp006688/GreatClass)'s Record Tools.
+
+[About](https://project.zhixiaoer.dpdns.org/repo/greatclass-recorder.html)
+
 ## Directory Structure
 
 ```
